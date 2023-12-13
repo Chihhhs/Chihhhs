@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KzcDuD&theme=github)
 ![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&bg_color=90,FEFBF3,CDF0EA)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KzcDuD&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KzcDuD&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KzcDuD&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KzcDuD&theme=github)
