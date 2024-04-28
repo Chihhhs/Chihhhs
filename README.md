@@ -1,4 +1,6 @@
-### 如果是欣梅爾的話肯定也會這樣做。
+沒啥才藝，給大家跳段街舞 Ni**as In Paris
+ጿጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈ
+呼，累死了
 
 <!--
 **KzcDuD/KzcDuD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
