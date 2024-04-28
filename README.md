@@ -1,4 +1,4 @@
-### Hi there 👋
+### 如果是欣梅爾的話肯定也會這樣做。
 
 <!--
 **KzcDuD/KzcDuD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
