@@ -2,6 +2,9 @@
 ጿጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈ
 呼，累死了
 
+
+2024/04/13 Elden Ring 通關
+
 <!--
 **KzcDuD/KzcDuD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
