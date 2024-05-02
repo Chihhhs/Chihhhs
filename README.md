@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,vim,docker,vscode,c,cpp,py,latex,torch" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" />
   </a>
 </p>
 
