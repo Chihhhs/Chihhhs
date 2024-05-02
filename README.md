@@ -1,5 +1,7 @@
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,vim,docker,vscode,c,cpp,py,latex,torch" />
+  </a>
 </p>
 
 ### About Me
