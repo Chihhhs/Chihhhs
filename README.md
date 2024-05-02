@@ -22,13 +22,17 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
 </p>
- 
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,vim,docker,vscode,c,cpp,py,latex,torch" />
   </a>
 </p>
+
+---
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=KzcDuD&style=for-the-badge&color=blue" alt=""/>
