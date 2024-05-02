@@ -1,5 +1,6 @@
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
 
 ### About Me
 今天給大家表演一段街舞 名字叫 `Ni**as In Paris`
