@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
+  <img width="400" height="100" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
 </p>
 
