@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=nord" />
   </a>
 </p>
 
@@ -22,8 +22,8 @@
 
 
 <p align="center">
-  <img width="600" height="175" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
-  <img width="400" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
+  <img width="600" height="150" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
 </p>
 
 ---
