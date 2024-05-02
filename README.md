@@ -6,15 +6,6 @@
 ጿጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈ
 呼，累死了
 
-### Skill Icon
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,vim,docker,vscode,c,cpp,py,latex,torch" />
-  </a>
-</p>
-
-
 ### My Game Record
 2024/04/13 Elden Ring `pass`
 
@@ -33,6 +24,11 @@
 </p>
  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,vim,docker,vscode,c,cpp,py,latex,torch" />
+  </a>
+</p>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=KzcDuD&style=for-the-badge&color=blue" alt=""/>
