@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 今天給大家表演一段街舞 名字叫 `Ni**as In Paris`
 ጿጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈ
 呼，累死了
