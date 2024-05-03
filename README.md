@@ -21,8 +21,8 @@
 ---
 
 <p align="center">
-  <img width="600" height="180" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
-  <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
+  <img width="560" height="170" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
+  <img width="380" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
 </p>
 
 ---
