@@ -10,6 +10,7 @@
 呼，累死了
 
 ### My Game Record
+2023 CyberPunk2077 `AllDone`
 2024/04/13 Elden Ring `pass`
 
 ---
