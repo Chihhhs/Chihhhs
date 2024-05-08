@@ -1,9 +1,11 @@
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=nord" />
-  </a>
-</p>
+<h1 align="center">
+  <a href="https://KzcDuD.github.io">KzcDuD</a>
 
+  <br />
+
+  ![https://avatars.githubusercontent.com/u/72302793?v=4](https://avatars.githubusercontent.com/u/72302793?size=128)
+</h1>
+---
 ### About Me
 今天給大家表演一段街舞 名字叫 `Ni**as In Paris`
 ጿጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈ
@@ -15,6 +17,14 @@
 + 2024/04/13 Elden Ring `pass`
 
 ---
+
+### Github states
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KzcDuD&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=nord" />
+  </a>
+</p>
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=KzcDuD&theme=dark&hide_border=true&border_radius=5&card_width=800">
