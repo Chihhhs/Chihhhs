@@ -6,8 +6,6 @@
   <img src="./Head_sticker.jpg" alt="head_sticker" style="width: 220px; height: 200px;">
 </h1>
 
----
-
 ### About Me
 今天給大家表演一段街舞 名字叫 `Ni**as In Paris`
 ጿጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈ
