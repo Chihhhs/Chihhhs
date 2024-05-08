@@ -3,7 +3,7 @@
   
   <br />
 
-  <img src="./Head_sticker.jpg" alt="head_sticker" style="width: 220px; height: 220px;">
+  <img src="./Head_sticker.jpg" alt="head_sticker" style="width: 220px; height: 200px;">
 </h1>
 ---
 ### About Me
