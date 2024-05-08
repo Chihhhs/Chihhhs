@@ -3,7 +3,7 @@
 
   <br />
 
-  ![https://avatars.githubusercontent.com/u/72302793?v=4](https://avatars.githubusercontent.com/u/72302793?size=128)
+  ![head_sticker](./Head_sticker.jpg)
 </h1>
 ---
 ### About Me
