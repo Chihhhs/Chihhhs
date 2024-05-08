@@ -3,7 +3,7 @@
   
   <br />
 
-  ![head_sticker](./Head_sticker.jpg =60%x)
+  <img src="./Head_sticker.jpg" alt="head_sticker" style="width: 200px; height: 150px;">
 </h1>
 ---
 ### About Me
