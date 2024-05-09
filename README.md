@@ -41,10 +41,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,vim,docker,vscode,c,cpp,py,latex,torch" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,java,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=github,vim,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=torch,flask" />
   </a>
 </p>
-
 ---
 
 
