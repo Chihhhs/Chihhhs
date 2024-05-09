@@ -53,16 +53,18 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,flask" />
+    <img src="https://skillicons.dev/icons?i=github,vim,vscode,docker" />
   </a>
 </p>
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vim,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=pytorch,flask" />
   </a>
 </p>
+
+
 
 
 ---
