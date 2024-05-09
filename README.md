@@ -59,7 +59,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=torch,flask" />
+    <img src="https://skillicons.dev/icons?i=pytorch,flask" />
   </a>
 </p>
 
