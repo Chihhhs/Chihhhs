@@ -39,14 +39,30 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,java,latex" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vim,vscode,docker" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=torch,flask" />
   </a>
 </p>
+
 ---
 
 
