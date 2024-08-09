@@ -27,14 +27,14 @@
 </p>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=KzcDuD&theme=dark&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Chihhhs&theme=dark&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
-  <img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=KzcDuD&show_icons=true&theme=onedark">
-  <img width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzcDuD&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
+  <img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=Chihhhs&show_icons=true&theme=onedark">
+  <img width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihhhs&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
 </p>
 
 ---
