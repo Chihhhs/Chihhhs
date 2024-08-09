@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://KzcDuD.github.io" style="color: #708090;">KzcDuD</a>
+  <a href="https://Chihhhs.github.io" style="color: #708090;">Chihhhs</a>
   
   <br />
 
