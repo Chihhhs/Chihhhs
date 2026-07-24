@@ -8,10 +8,8 @@
 
 ### About Me
 
-### My Game Record
++ [CV](https://chihhhs.github.io/CV/)
 
-+ 2023 CyberPunk2077 `AllDone`
-+ 2024/04/13 Elden Ring `pass`
 ---
 
 <p align="left">
