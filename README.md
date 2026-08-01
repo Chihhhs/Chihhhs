@@ -16,9 +16,11 @@
 
 <br />
 
-<pre align="left"><code>┌──(chihhhs㉿github)-[~]
+<pre align="left"><code>
+┌──(chihhhs㉿github)-[~]
 └─$ whoami
-Cyber Security Student</code></pre>
+Cyber Security Student
+</code></pre>
 
 </div>
 
