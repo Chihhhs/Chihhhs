@@ -14,13 +14,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Learning+security+by+building+things;Exploring+offensive+security+%26+defensive+engineering;Turning+curiosity+into+useful+tools" alt="Typing introduction" />
 
-<br />
-
-<pre align="left"><code>
-┌──(chihhhs㉿github)-[~]
-└─$ whoami
-Cyber Security Student
-</code></pre>
 
 </div>
 
