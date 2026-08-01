@@ -93,8 +93,16 @@ My current interests include:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chihhhs&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="Chihhhs GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihhhs&layout=compact&hide_border=true&theme=transparent&title_color=06b6d4&text_color=94a3b8" alt="Chihhhs most used languages" />
+<table>
+  <tr>
+    <td>
+      <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chihhhs&theme=github_dark" alt="Chihhhs GitHub statistics" />
+    </td>
+    <td>
+      <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chihhhs&theme=github_dark" alt="Chihhhs most used languages" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
