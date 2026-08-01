@@ -14,52 +14,35 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Learning+security+by+building+things;Exploring+offensive+security+%26+defensive+engineering;Turning+curiosity+into+useful+tools" alt="Typing introduction" />
 
-
 </div>
 
 ---
 
-## `$ whoami`
+## `/about`
 
-I'm a **Cyber Security student** interested in understanding how systems fail, how attacks work, and how to build more resilient software.
-
-My current interests include:
-
-- offensive security, CTFs, binary exploitation, and MITRE ATT&CK
-- security tooling, automation, and practical threat research
-- machine learning experiments and developer tooling
-- building small projects that make difficult ideas easier to explore
-
-> I learn best by turning questions into experiments, then documenting what I find.
-
-## Featured work
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ HyperGuard</h3>
-      <p>A HyperEVM dApp exploring safer workflows and tooling for Hyperliquid users.</p>
-      <a href="https://github.com/Chihhhs/HyperGuard">View repository →</a>
+    <td width="33%" valign="top" align="center">
+      <h3>🔎 FOCUS</h3>
+      <p>Offensive security<br />CTFs · ATT&CK · Pwn</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📈 Trading Strategy</h3>
-      <p>A Python research project for systematic crypto trading, backtesting, and validation.</p>
-      <a href="https://github.com/Chihhhs/trading-strategy">View repository →</a>
+    <td width="33%" valign="top" align="center">
+      <h3>🧠 LEARNING</h3>
+      <p>Security research<br />Threats · Systems · ML</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧪 Assistant for ATT&CK</h3>
-      <p>A RAG experiment built around MITRE ATT&CK knowledge and security analysis.</p>
-      <a href="https://github.com/Chihhhs/Assistant_for_ATT-CK">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💥 CTFs & Security Labs</h3>
-      <p>Notes, practice code, and experiments from my security learning journey.</p>
-      <a href="https://github.com/Chihhhs/CTFs">View repository →</a>
+    <td width="33%" valign="top" align="center">
+      <h3>⚙️ BUILDING</h3>
+      <p>Useful tools<br />Automation · Experiments</p>
     </td>
   </tr>
 </table>
+
+<p><code>➜ I learn by turning questions into experiments.</code></p>
+
+</div>
+
 
 <p align="center">
   <a href="https://github.com/Chihhhs?tab=repositories">Explore all repositories →</a>
